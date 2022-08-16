@@ -1,0 +1,6 @@
+{
+    "trailingComa" : "node",
+    "arrowParens": "avoid",
+    "singleQuote": true,
+    "semi": false
+}
